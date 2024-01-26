@@ -1,6 +1,6 @@
 ## Analyze trending terms on Reddit!
 
-#### This code allows you to select a specific subreddit on reddit.com and find the most common words used in titles from the first specified number of posts in a certain category (top, hot, and new). The code will automatically exclude common words such as articles and pronouns in order to filter out with words with little relevant data. I originally created this code to analyze /r/FireEmblemHeroes to gather data on which characters were most talked about during the game's "Choose Your Legends" voting campaign, but this code has other uses in determining trends and topics of interest in other online communities.
+#### This code allows you to select a subreddit on reddit.com and find the most common words used in titles from the first specified number of posts in a certain category (top, hot, and new). The code will automatically exclude common words such as articles and pronouns in order to filter out with words with little relevant data. I originally created this code to analyze /r/FireEmblemHeroes to gather data on which characters were most talked about during the game's "Choose Your Legends" voting campaign, but this code has other uses in determining trends and topics of interest in other online communities.
 
 ### User Notice
 
